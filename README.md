@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dmsharma99
-- 👀 I’m interested in Software Developer
+- 👀 I’m interested in Full-Stack Developer
 - 🌱 I’m currently learning ...
 
 <!---
